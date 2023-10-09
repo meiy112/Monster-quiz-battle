@@ -1,0 +1,26 @@
+{
+  "score": 1,
+  "level": 1,
+  "contGame": true,
+  "questions": [
+    {
+      "answer": "2",
+      "prompt": "What is 1 + 1?"
+    },
+    {
+      "answer": "4",
+      "prompt": "What is 2 + 2?"
+    },
+    {
+      "answer": "4",
+      "prompt": "What is 1 + 3?"
+    },
+    {
+      "answer": "6",
+      "prompt": "What is 4 + 2?"
+    }
+  ],
+  "hp": 2,
+  "questionNum": 2,
+  "exp": 1
+}
